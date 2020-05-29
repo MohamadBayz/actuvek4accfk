@@ -1,6 +1,6 @@
 module.exports = {
-    tokens: ["token","token","token","token"], ///توكنات حسابات الترحيب
-    voice_channel: "693468209785077780", ///ايدي الروم اللي بدك يثبت فيه
+    tokens: [""NzE1ODA3OTE3MjY1MTI1Mzg4.XtCmxw.YZSR6dnh4pvQN1clqwnhxZFbl5I""], ///توكنات حسابات الترحيب
+    voice_channel: "707254827872157787", ///ايدي الروم اللي بدك يثبت فيه
     text_channel: "686463796872740874", ///ايدي روم اللي بدك يرحب فيه
-    your_server: "686463316377337889", /// ايدي السيرفر تبعك
+    your_server: "707253754528923648", /// ايدي السيرفر تبعك
 }
